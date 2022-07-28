@@ -8,6 +8,7 @@ Contribution Guide:
 - Add your project documentation and code or link to them
 - Add your team members names
 - Add your university
+- Add a summary of the project
 - commit your files and make a single pull request
 
 
