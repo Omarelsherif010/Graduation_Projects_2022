@@ -1,6 +1,7 @@
 # Graduation Projects 2022 for Egyptian Students 🎓
 
 ### This repo contains a list of graduation projects of 2022. 
+#### We beleive that starting from where others ended will produce better results, so share your ideas with us to read, understand, discuss and maybe use your work and build on it to create something great for the community 
 
 Contribution Guide:
 - Fork this repo 
