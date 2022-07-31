@@ -6,7 +6,7 @@
 Contribution Guide:
 - Fork this repo 
 - Create new directory with your project name and readme file
-- Add your project documentation and code or link to them
+- Add your project documentation and demo or link to them
 - Add your team members names
 - Add your university
 - Add a summary of the project
